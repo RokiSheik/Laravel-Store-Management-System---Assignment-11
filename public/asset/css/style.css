@@ -1,0 +1,38 @@
+.header{
+    height: 60px;
+    background-color: green;
+    color: white;
+}
+.header h2{
+    padding-top:10px;
+}
+body{
+    background-color: silver;
+}
+.main-menu li{
+    list-style-type: none;
+    background:gray;
+    margin-top:10px;
+    padding:20px;
+    border-radius: 5px;
+    text-align:center;
+}
+.main-menu li:hover{
+    background:green;
+    color:white;
+}
+.main-menu li a{
+    text-decoration:none;
+    color:white;
+}
+.card-design{
+   background:gray;
+   margin-top:20px;
+   border-radius:5px;
+   margin-right:20px;
+   margin-left:20px;
+   height:120px;
+}
+.card-body{
+    color:white;
+}
